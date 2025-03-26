@@ -39,4 +39,6 @@ spotify-clone/
 
 Feel free to contribute and improve this project! 😊
 
+Thank you
+
 
