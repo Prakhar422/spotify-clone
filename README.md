@@ -21,6 +21,11 @@ spotify-clone/
 - **HTML5** (For structuring the web page)
 - **CSS3** (For styling and responsiveness)
 
+## 🌐 Deployment
+The project is deployed via GitHub Pages and can be accessed at:
+
+https://prakhar422.github.io/spotify-clone/
+
 
 ## 🔧 How to Use
 1. Clone this repository:
